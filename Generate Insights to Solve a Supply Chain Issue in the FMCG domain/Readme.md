@@ -1,6 +1,8 @@
 # Project Title : AtliQ Mart Supply Chain Analytics.
 
-![image](https://user-images.githubusercontent.com/120908587/232279009-659ab556-5109-423a-aea7-d83a52d3ccc4.png)
+
+![Atliq_logo_for_dashboard](https://user-images.githubusercontent.com/120908587/232280554-c894f033-647a-4e0b-a11e-2f1ac6c88f17.png)
+
 
 # 📚 About Company 
 
